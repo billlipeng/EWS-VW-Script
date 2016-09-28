@@ -20,3 +20,5 @@ wget http://www.uni-weimar.de/medien/webis/corpora/corpus-wdvc-16/wdvc16_2015_11
 wget http://www.uni-weimar.de/medien/webis/corpora/corpus-wdvc-16/wdvc16_2016_01.xml.7z
 wget http://www.uni-weimar.de/medien/webis/corpora/corpus-wdvc-16/wdvc16_meta.csv.7z      
 wget http://www.uni-weimar.de/medien/webis/corpora/corpus-wdvc-16/wdvc16_truth.csv.7z
+wget http://groups.uni-paderborn.de/wdqa/tags_201501181252.csv.bz2
+wget http://www.uni-weimar.de/medien/webis/corpora/corpus-wdvc-15/wikidata-vandalism-corpus-2015.tar.bz2
